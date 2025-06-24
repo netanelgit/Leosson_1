@@ -1,3 +1,4 @@
+import logo from './logo.svg';
 import './homework.css';
 
 function Name({name}) {
@@ -20,8 +21,10 @@ function Homework() {
         return (
         <>
             <div className="container">
+            <h1>Homework</h1>
             <Name name="Your Name"/>
             <Email email="YourName@gmail.com"/>
+            <img src={logo} className="App-logo" alt="logo" />
             </div>
         </>
     )};
