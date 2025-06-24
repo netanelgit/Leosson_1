@@ -25,6 +25,7 @@ function Homework() {
             <Name name="Your Name"/>
             <Email email="YourName@gmail.com"/>
             <img src={logo} className="App-logo" alt="logo" />
+            <p>look the repo <a href={"https://github.com/netanelgit/Leosson_1"} >Follow the link</a></p>
             </div>
         </>
     )};
