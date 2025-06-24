@@ -1,3 +1,24 @@
+# To deploy this project 
+
+run:
+
+### `npm install`
+
+and after run:
+
+### `npm start`
+
+את ההטמעה של הקומפוננטה עשיתי בדף הראשי index.js
+את השיטה הזו עדיין לא למדנו (זה השורה האחרונה בקובץ)
+אבל כנראה שנלמד אותה בשיעורים הבאים 
+
+בהצלחה!
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
